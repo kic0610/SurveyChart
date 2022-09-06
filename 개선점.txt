@@ -1,5 +1,5 @@
 
-
+1037
 리액트 라우터에서 상세페이지 구현
 https://han-py.tistory.com/445
 npm run dev
